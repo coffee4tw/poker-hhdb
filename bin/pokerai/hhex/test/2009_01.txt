@@ -1,0 +1,118 @@
+E:\outdb\dev>java -cp ./libs/truezip-6.jar; -Xmx512M -Xms512M pokerai.hhex.hhimport.HandImporter E:\HandHistories\PokerStars\2009-01\ E:\outdb\
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\18\ finished for 2.0 minutes.
+\19\ finished for 2.0 minutes.
+\20\ finished for 2.0 minutes.
+\21\ finished for 1.0 minutes.
+\22\ finished for 0.0 minutes.
+\23\ finished for 2.0 minutes.
+\24\ finished for 2.0 minutes.
+\25\ finished for 2.0 minutes.
+\26\ finished for 2.0 minutes.
+\27\ finished for 2.0 minutes.
+\28\ finished for 0.0 minutes.
+\29\ finished for 2.0 minutes.
+\30\ finished for 2.0 minutes.
+\31\ finished for 2.0 minutes.
+\2009-01\ finished for 29.0 minutes.
+Parsing completed for 29.16 minutes.
+32417414 hands imported, 96 errors.
+Imported with speed 18531 hands/second.
+87.0 bytes per hand.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Number of hands: 9110806 (of total 9110806), 100.31 bytes/hand
+Average number of players per table: 7.84
+Distribution: 5096 10546 175495 104348 98684 155119 440017 1436564 3258494 3426443
+Total times shortstacker participated in a hand: 1.4412849E7
+1.58 (20.17%) shortstackers per table.
+Average preflop actions per hand: 11.68
+Average    flop actions per hand: 2.06
+Average    turn actions per hand: 0.97
+Average   river actions per hand: 0.61
+Number of times AA was seen at showdown: 83049
+Number of times KK was seen at showdown: 78218
+Number of times 77 was seen at showdown: 38733
+Number of times 22 was seen at showdown: 23873
+Read & processing speed: 395142 hands/second.
+Read & processing time: 23 second.
+Read time (ms): 14072, parse time (ms): 407
+Estimated time to read & process 200 million hands: 506 seconds (8 minutes).
+Initializing players index (this is done only the first time, then persisted), please wait ...
+10000000 hands indexed.
+20000000 hands indexed.
+30000000 hands indexed.
+A total of 32417318 hands has been indexed.
+Number of players that played 1 - 1000 hands: 184739
+Number of players that played 1000 - 10000 hands: 26106
+Number of players that played 10000 - 50000 hands: 3156
+Number of players that played 50000 - 100000 hands: 244
+Number of players that played 100000 - 200000 hands: 33
+Number of players that played 200000 - 500000 hands: 0
+Number of players that played 500000 - 1000000 hands: 0
+Number of players that played 1000000 - 999999999 hands: 0
+Number of  winners  per hand range: 49125 29961 14192 9003 2897 1652 128 12 0
+Number of   losers  per hand range: 163169 87975 36070 20518 3827 1781 149 21 0
+Number of breakeven per hand range: 212 14 2 0 0 0 0 0 0
+Total players per hand range: 212294 117936 50262 29521 6724 3433 277 33 0
+Percentage winnners per hand range: 23.14% 25.4% 28.24% 30.5% 43.08% 48.12% 46.21% 36.36% 0.0%
+
+
+
+
+E:\outdb\dev>java -cp ./libs/truezip-6.jar; -Xmx512M -Xms512M pokerai.hhex.hhimport.HandImporter E:\HandHistories\PokerStars\2009-01\ E:\outdb\
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\18\ finished for 1.0 minutes.
+\19\ finished for 2.0 minutes.
+\20\ finished for 1.0 minutes.
+\21\ finished for 1.0 minutes.
+\22\ finished for 0.0 minutes.
+\23\ finished for 3.0 minutes.
+\24\ finished for 2.0 minutes.
+\25\ finished for 2.0 minutes.
+\26\ finished for 2.0 minutes.
+\27\ finished for 3.0 minutes.
+\28\ finished for 1.0 minutes.
+\29\ finished for 3.0 minutes.
+\30\ finished for 3.0 minutes.
+\31\ finished for 4.0 minutes.
+\2009-01\ finished for 35.0 minutes.
+Parsing completed for 35.92 minutes.
+32417411 hands imported, 99 errors.
+Imported with speed 15040 hands/second.
+87.0 bytes per hand.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Number of hands: 9110806 (of total 9110806), 100.31 bytes/hand
+Average number of players per table: 7.84
+Distribution: 5096 10546 175495 104348 98684 155119 440017 1436564 3258494 3426443
+Total times shortstacker participated in a hand: 1.4412849E7
+1.58 (20.17%) shortstackers per table.
+Average preflop actions per hand: 11.68
+Average    flop actions per hand: 2.06
+Average    turn actions per hand: 0.97
+Average   river actions per hand: 0.61
+Number of times AA was seen at showdown: 83049
+Number of times KK was seen at showdown: 78218
+Number of times 77 was seen at showdown: 38733
+Number of times 22 was seen at showdown: 23873
+Read & processing speed: 71018 hands/second.
+Read & processing time: 128 second.
+Read time (ms): 119075, parse time (ms): 564
+Estimated time to read & process 200 million hands: 2816 seconds (46 minutes).
+Initializing players index (this is done only the first time, then persisted), please wait ...
+10000000 hands indexed.
+20000000 hands indexed.
+30000000 hands indexed.
+A total of 32417312 hands has been indexed.
+Number of players that played 1 - 1000 hands: 184739
+Number of players that played 1000 - 10000 hands: 26106
+Number of players that played 10000 - 50000 hands: 3156
+Number of players that played 50000 - 100000 hands: 244
+Number of players that played 100000 - 200000 hands: 33
+Number of players that played 200000 - 500000 hands: 0
+Number of players that played 500000 - 1000000 hands: 0
+Number of players that played 1000000 - 999999999 hands: 0
+Number of  winners  per hand range: 49125 29961 14192 9003 2897 1652 128 12 0
+Number of   losers  per hand range: 163169 87975 36070 20518 3827 1781 149 21 0
+Number of breakeven per hand range: 212 14 2 0 0 0 0 0 0
+Total players per hand range: 212294 117936 50262 29521 6724 3433 277 33 0
+Percentage winnners per hand range: 23.14% 25.4% 28.24% 30.5% 43.08% 48.12% 46.21% 36.36% 0.0%
