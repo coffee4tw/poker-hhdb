@@ -1,0 +1,41 @@
+Sun May 17 16:13:54 CEST 2009
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\29\ finished for 2.0 minutes.
+Parsing completed for 2.48 minutes.
+2947588 hands imported, 218 errors.
+Imported with speed 19801 hands/second.
+72.0 bytes per hand.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Number of hands: 2495051 (of total 2495051), 86.11 bytes/hand
+Average number of players per table: 5.61
+Distribution: 1706 3365 455547 54467 125966 399248 728375 120701 273645 298968 33063
+Total times shortstacker participated in a hand: 3587293.0
+1.44 (25.62%) shortstackers per table.
+Average preflop actions per hand: 9.04
+Average    flop actions per hand: 2.08
+Average    turn actions per hand: 1.14
+Average   river actions per hand: 0.75
+Number of times AA was seen at showdown: 17299
+Number of times KK was seen at showdown: 16216
+Number of times 77 was seen at showdown: 9359
+Number of times 22 was seen at showdown: 5988
+Read & processing speed: 727420 hands/second.
+Read & processing time: 3 second.
+Read time (ms): 359, parse time (ms): 219
+Estimated time to read & process 200 million hands: 274 seconds (4 minutes).
+Initializing players index (this is done only the first time, then persisted), please wait ...
+A total of 1846730 hands has been indexed, for 0.09 min.
+Number of players that played 1 - 1000 hands: 33383
+Number of players that played 1000 - 10000 hands: 2261
+Number of players that played 10000 - 50000 hands: 29
+Number of players that played 50000 - 100000 hands: 0
+Number of players that played 100000 - 200000 hands: 0
+Number of players that played 200000 - 500000 hands: 0
+Number of players that played 500000 - 1000000 hands: 0
+Number of players that played 1000000 - 999999999 hands: 0
+Number of  winners  per hand range: 13083 6763 2182 1198 116 14 0 0 0
+Number of   losers  per hand range: 22195 8458 2115 1091 112 15 0 0 0
+Number of breakeven per hand range: 62 4 1 0 0 0 0 0 0
+Total players per hand range: 35278 15221 4297 2289 228 29 0 0 0
+Percentage winnners per hand range: 37.09% 44.43% 50.78% 52.34% 50.88% 48.28% 0.0% 0.0% 0.0%
+209MB
